@@ -1,3 +1,19 @@
 ﻿Testando mudanças no repositório no GIT
 
+20141044110149@ZN382884 MINGW64 ~
+$ pwd
+/e/Usuários/20141044110149
 
+20141044110149@ZN382884 MINGW64 ~
+$ cd Desktop
+
+20141044110149@ZN382884 MINGW64 ~/Desktop
+$ ls
+desktop.ini
+
+20141044110149@ZN382884 MINGW64 ~/Desktop
+$ mkdir MinicursoGIt
+
+20141044110149@ZN382884 MINGW64 ~/Desktop
+$ ls
+desktop.ini  MinicursoGIt/
